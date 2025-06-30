@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": "6886",
+      "title": " Watermelon",
+      "description": "Watermelon is a large, oval or round fruit with a green rind, typically striped, and a sweet, juicy, red flesh, often containing black seeds. ",
+      "keyPoints": [
+        "Rich in hydration"
+      ]
+    },
+    {
+      "id": "df90",
+      "title": "Pumpkin",
+      "description": "Pumpkins are large, round, typically orange fruits with a thick, smooth, and slightly ribbed rind.",
+      "keyPoints": [
+        "Rich in hydration & vitamins"
+      ]
+    },
+    {
+      "id": "c395",
+      "title": "Apple",
+      "description": "An apple is a round, edible fruit produced by an apple tree (Malus spp.). Fruit trees of the orchard or domestic apple",
+      "keyPoints": [
+        "Helps you live longer",
+        "Reduces blood pressure.",
+        "Lowers cholesterol."
+      ]
+    },
+    {
+      "id": "6fb4",
+      "title": "Chocolates",
+      "description": "Chocolate is a food made from roasted and ground cocoa beans that can be a liquid, solid, or paste, either by itself or to flavor other foods",
+      "keyPoints": [
+        "Improved heart health",
+        "Enhanced brain function",
+        "Rich antioxidant "
+      ]
+    },
+    {
+      "id": "468b",
+      "title": "Almonds",
+      "description": "Almonds offer a wide array of health benefits due to their rich nutrient profile. They are packed with vitamins, minerals, and healthy fats, contributing to heart health, brain function, and overall well-being",
+      "keyPoints": [
+        "Improved Digestion and Nutrient Uptake. ",
+        "Improved Brain Function.",
+        "Makes Bones and Teeth Strong"
+      ]
+    },
+    {
+      "id": "cd4d",
+      "title": "Green tea",
+      "description": "Green tea offers a wide array of health benefits due to its rich antioxidant content, particularly catechins like EGCG. These include potential protection against heart disease, certain cancers, and cognitive decline, as well as aid in weight management and skin health. ",
+      "keyPoints": [
+        "Prevents stroke and heart disease",
+        "Fights cancer-causing inflammation",
+        "Boosts brain health"
+      ]
+    },
+    {
+      "id": "567a",
+      "title": "Ice Creams",
+      "description": "Ice cream can offer several benefits, including being a source of essential nutrients like calcium, vitamins A, D, and B12, and providing a boost to the immune system",
+      "keyPoints": [
+        "Gives you energy",
+        "It helps in strengthening your bones",
+        "Makes You Happy",
+        "Boosts the immune system"
+      ]
+    },
+    {
+      "id": "58f3",
+      "title": "Kiwi",
+      "description": "Kiwis offer a variety of health benefits due to their rich nutritional profile. They are a good source of vitamin C, antioxidants, and fiber, which can support the immune system, aid digestion, and promote heart health. ",
+      "keyPoints": [
+        "Kiwi can help you reach optimal blood levels of vitamin C.",
+        "Including high blood pressure",
+        "Kiwis is a smart way to support heart health",
+        "Kiwis contain both insoluble and soluble fiber. ",
+        "Kiwis may be a good choice for people who have constipation"
+      ]
+    }
+  ]
+}

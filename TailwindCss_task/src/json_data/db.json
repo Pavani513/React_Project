@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": "0809",
+      "name": "jay",
+      "email": "jay@gmail.com",
+      "password": "Jay@12345"
+    },
+    {
+      "id": "352d",
+      "username": "atme",
+      "email": "atme@gmail.com",
+      "password": "atme@234"
+    },
+    {
+      "id": "4631",
+      "name": "chinni",
+      "email": "chinni@gmail.com",
+      "password": "chiini123",
+      "confirmPassword": "chinni123"
+    },
+    {
+      "id": "a58e",
+      "name": "chinni",
+      "email": "chinni@gmail.com",
+      "password": "chiini123",
+      "confirmPassword": "chinni123"
+    },
+    {
+      "id": "431b",
+      "name": "keerthi",
+      "email": "keerthi@gmail.com",
+      "password": "keerthi123",
+      "confirmPassword": "keerthi123"
+    },
+    {
+      "id": "1db6",
+      "name": "pav",
+      "email": "pav@gmail.com",
+      "password": "pswd123",
+      "confirmPassword": "pswd123"
+    },
+    {
+      "id": "c0f4",
+      "name": "atme",
+      "email": "atme@gmail.com",
+      "password": "atme123",
+      "confirmPassword": "atme123"
+    },
+    {
+      "id": "1f1b",
+      "name": "mahesh",
+      "email": "mahesh@gmail.com",
+      "password": "mahesh",
+      "confirmPassword": "mahesh"
+    },
+    {
+      "id": "87fe",
+      "name": "mahe",
+      "email": "mahe@gmail.com",
+      "password": "mahe098",
+      "confirmPassword": "mahe098"
+    },
+    {
+      "id": "2f27",
+      "name": "sindhu",
+      "email": "sindhu@gmail.com",
+      "password": "sindhu123",
+      "confirmPassword": "sindhu123"
+    },
+    {
+      "id": "f577",
+      "name": "chinni",
+      "email": "chinni@gmail.com",
+      "password": "1234567",
+      "confirmPassword": "1234567"
+    },
+    {
+      "id": "ee67",
+      "name": "siva",
+      "email": "siva@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": "f388",
+      "name": "krishna",
+      "email": "krish@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345"
+    },
+    {
+      "id": "b9e9",
+      "name": "Pavani",
+      "email": "pavani@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": "a62e",
+      "name": "chinni",
+      "email": "chinni@gmail.com",
+      "password": "chinni123",
+      "confirmPassword": "chinni123"
+    },
+    {
+      "id": "4b1e",
+      "name": "Pavani",
+      "email": "pavani@gmail.com",
+      "password": "pav12345",
+      "confirmPassword": "pav12345"
+    }
+  ]
+}
