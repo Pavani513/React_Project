@@ -3,7 +3,7 @@ import axios from "axios";
 
 export const singlePage=createAsyncThunk("cards", async(id,{rejectWithValue})=>{
     try{
-      const response = await axios.get(`http://localhost:3000/products/${id}`)
+      const response = await axios.get(`http://localhost:5000/products/${id}`)
       return response.data;
     }catch(error) {
       return rejectWithValue(error.message);
