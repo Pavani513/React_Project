@@ -16,7 +16,7 @@ const singlePageData= createSlice({
     data:[],
     status:"",
     error:null,
-    },
+    },    
 
     extraReducers: (builder)=>{
         builder
